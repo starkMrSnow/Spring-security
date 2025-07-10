@@ -11,7 +11,7 @@ public class Student {
     private int marks;  
     
     @Override
-public String toString() {
+    public String toString() {
     return "Student{" +
             "id=" + id +
             ", name='" + name + '\'' +
